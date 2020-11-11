@@ -1,0 +1,25 @@
+{
+  "configuracoes":{
+    "vidaMaxima": 5, 
+    "vidaInicial":5
+},
+
+"mapa":[
+      {
+         "inimigo": 0
+        
+      },
+      {
+        "inimigo": 1
+     
+      },
+     {
+        "inimigo": 1
+       
+     },
+     {
+        "inimigo": 2
+      
+     }
+  ]
+}
